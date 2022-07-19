@@ -6,7 +6,7 @@
 // @include			https://*.jukejuice.com:*
 // @include			https://*.newcompte.fr:*
 // @include       https://bash-tp.github.io/tagpro-vcr/game*.html
-// @author  		Browncoat, b1g
+// @author  		Browncoat, Logicus
 // ==/UserScript==
 
 tagpro.ready(function () {
