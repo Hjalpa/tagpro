@@ -32,7 +32,7 @@ tagpro.ready(function () {
     var spinOverlayUrl = "http://i.imgur.com/yT42PHy.png";
 
     // Puts the flair in the middle of the ball
-    var centerFlair = false;
+    var centerFlair = true;
 
     // Spins the flair (only if centered)
     var spinFlair = true;
