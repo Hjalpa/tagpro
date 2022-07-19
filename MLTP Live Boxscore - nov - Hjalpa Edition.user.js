@@ -1,11 +1,11 @@
 // ==UserScript==
 // @name          MLTP Live Boxscore - nov - Hjalpa Edition
-// @version       1.2
+// @version       1.21
 // @include       *://*.koalabeast.com/groups*
 // @include       *://*.jukejuice.com/groups*
 // @include       *://*.newcompte.*/groups*
 // @include       https://bash-tp.github.io/tagpro-vcr/*
-// @author        RonSpawnson
+// @author        RonSpawnson, nov, Hjalpa
 // @require       https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js
 // ==/UserScript==
 
