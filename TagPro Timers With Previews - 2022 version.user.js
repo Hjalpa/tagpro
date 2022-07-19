@@ -10,7 +10,7 @@
 // @grant       GM_setValue
 // @grant       GM_getValue
 // @license MIT
-// @namespace https://greasyfork.org/users/840828
+// @namespace https://greasyfork.org/users/840828, Logicus
 // ==/UserScript==
 
 tagpro.ready(function() {
