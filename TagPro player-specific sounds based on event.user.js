@@ -20,18 +20,8 @@
 const playerData = {
     "Poeticalto": ["https://themushroomkingdom.net/sounds/wav/smb/smb_1-up.wav",1.0],
     "some ball": ["https://raw.githubusercontent.com/hjalpa/sounds/main/cheering.mp3"],
-    "ttv/Hjalpa": ["https://raw.githubusercontent.com/hjalpa/sounds/main/wassup-baby.mp3"],
-    "spacetiger": ["https://raw.githubusercontent.com/hjalpa/sounds/main/spacetiger.mp3"],
-    "jazzz": ["https://raw.githubusercontent.com/hjalpa/sounds/main/jazzztrue.mp3"],
-    "DiNgBaT": ["https://raw.githubusercontent.com/hjalpa/sounds/main/dingbat.mp3"],
     "Acuraun": ["https://raw.githubusercontent.com/hjalpa/sounds/main/acaraun.mp3"],
-    "BertAndBort": ["https://raw.githubusercontent.com/hjalpa/sounds/main/bertandbort.mp3"],
-    "wet bat": ["https://raw.githubusercontent.com/hjalpa/sounds/main/wetbattrue.mp3"],
-    "Prime": ["https://raw.githubusercontent.com/hjalpa/sounds/main/primetrue.mp3"],
-    "DudeMcGuy": ["https://raw.githubusercontent.com/hjalpa/sounds/main/dudemcguy.mp3"],
-    "Raja": ["https://raw.githubusercontent.com/hjalpa/sounds/main/youre-ugly.mp3"],
-    "scorch": ["https://raw.githubusercontent.com/hjalpa/sounds/main/icq2008_incomingim.mp3"],
-
+    
 };
 
 tagpro.ready(function(){
