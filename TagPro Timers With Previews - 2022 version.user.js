@@ -1,8 +1,7 @@
 // ==UserScript==
 // @name        TagPro Timers With Previews
 // @description A timer script to be used with TagPro. All boosts, bombs, powerups, and player respawns will have a countdown.
-// @locale
-// @version     0.4.2
+// @version     0.4.3
 // @match        *://*.koalabeast.com/*
 // @match        *://*.jukejuice.com/*
 // @match        *://*.newcompte.fr/*
@@ -12,6 +11,8 @@
 // @license MIT
 // @namespace https://greasyfork.org/users/840828, Logicus
 // ==/UserScript==
+
+/* globals tagpro, tr, PIXI, jQuery, $, tinycolor, tpul */
 
 tagpro.ready(function() {
     tr = tagpro.renderer;
