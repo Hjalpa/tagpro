@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name          Map Keys to Switch Teams and Toggle Music
 // @description   Switches teams and turns music and sounds on at the push of a button
-// @version       0.12
+// @version       1.0
 // @include      https://tagpro*.koalabeast.com/game
 // @include      https://tagpro*.koalabeast.com/game?*
 // @author        ballparts, Hjalpa
@@ -21,7 +21,7 @@ var musicToggleKeyCode = 221; // ]
 var soundToggleKeyCode = 220; // \
 
 // KeyCode for chat toggle
-var chatToggleKeyCode = 189; // \
+var chatToggleKeyCode = 189; // -
 
 ///////////////////////////////////////
 
@@ -55,13 +55,10 @@ waitForInitialized(function() {
                     return;
                 }
                 if(e.keyCode == chatToggleKeyCode) {
-                    $('#chatHistory').style.display.none();
+                    $('#chatHistory').toggle();
                     return;
                 }
             }
         }
     });
 });
-
-//        function hideChat() {
-//          document.getElementById("chatHistory").style.display = "none";
