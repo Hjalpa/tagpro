@@ -4,6 +4,8 @@
 // @version       1.0
 // @include      https://tagpro*.koalabeast.com/game
 // @include      https://tagpro*.koalabeast.com/game?*
+// @updateURL    https://github.com/Hjalpa/tagpro/raw/main/tagprohotkeys.user.js
+// @downloadURL  https://github.com/Hjalpa/tagpro/raw/main/tagprohotkeys.user.js
 // @author        ballparts, Hjalpa
 // ==/UserScript==
 
