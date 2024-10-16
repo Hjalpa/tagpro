@@ -7,6 +7,7 @@
 // @author          BBQchicken, anom
 // @namespace       reddit.com/u/Splanky222
 // @downloadURL     https://github.com/Hjalpa/tagpro/raw/refs/heads/main/tagprotelestrator.user.js
+// @updateURL       https://github.com/Hjalpa/tagpro/raw/refs/heads/main/tagprotelestrator.user.js
 // ==/UserScript==
 
 /* eslint-env jquery */
