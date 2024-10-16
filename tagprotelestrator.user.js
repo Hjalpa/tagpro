@@ -6,7 +6,7 @@
 // @include         https://*.koalabeast.com/game?*
 // @author          BBQchicken, anom
 // @namespace       reddit.com/u/Splanky222
-// @downloadURL     https://gist.github.com/JonathanDCohen/50aea7b437c64b728199/raw/tagpro_telestrator_2_0.user.js
+// @downloadURL     https://github.com/Hjalpa/tagpro/raw/refs/heads/main/tagprotelestrator.user.js
 // ==/UserScript==
 
 /* eslint-env jquery */
